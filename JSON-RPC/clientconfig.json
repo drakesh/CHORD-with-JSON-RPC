@@ -1,0 +1,1 @@
+{"serverID" : "windows-server","protocol":"tcp","ipAddress":"192.168.56.1","port":4444,"methods":["lookup","insert","delete","listkeys","listIDs","shutdown"]}
