@@ -1,0 +1,3 @@
+{"method":"insert","params":["keyB","relA","hello"]}
+{"method":"insert","params":["keyY","relA","hello"]}
+{"method":"insert","params":["keyZ","relA","hello"]}

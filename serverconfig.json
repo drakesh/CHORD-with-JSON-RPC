@@ -1,0 +1,1 @@
+{"serverID" : "server-client","protocol":"tcp","ipAddress":"127.0.0.1","port":4444,"persistentStorageContainer":{"file":"DICT3.txt"},"deletetimeout":200, "methods":["lookup","insert","delete","listkeys","listIDs","shutdown","purge"]}

@@ -1,0 +1,16 @@
+{"method":"insert","params":["keyB","relA",{"a":1,"b":[1,2,{"c":[1,2,3]}]}],"id":5}
+{"method":"insert","params":["keyB","relA",{"a":1,"b":1}],"id":5}
+{"method":"insert","params":["keyC","relA",{"a":1,"b":[1,2,{"c":[1,2,3]}]}],"id":5}
+{"method":"insertOrUpdate","params":["keyD","relA",{"a":1,"b":[1,2,{"c":[1,2,3]}]}],"id":5}
+{"method":"lookup","params":["keyD","relA"],"id":5}
+{"method":"insertOrUpdate","params":["keyD","relA",{"a":1,"b":1}],"id":5}
+{"method":"lookup","params":["keyD","relA"],"id":5}
+{"method":"lookup","params":["keyB","relA"],"id":5}
+{"method":"lookup","params":["keyZ","relA"],"id":5}
+{"method":"listKeys","params":[],"id":5}
+{"method":"listIDs","params":[],"id":5}
+{"method":"delete","params":["keyB","relA"],"id":5}
+{"method":"delete","params":["keyZ","relA"],"id":5}
+{"method":"listKeys","params":[],"id":5}
+{"method":"listIDs","params":[],"id":5}
+{"method":"shutdown","params":[],"id":5}
